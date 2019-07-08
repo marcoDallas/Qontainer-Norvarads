@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/favicon.ico</file>
+        <file>img/defense.png</file>
+        <file>img/grave.png</file>
+        <file>img/master.png</file>
+        <file>img/attack.png</file>
+        <file>img/confused.png</file>
+        <file>img/evo.png</file>
+        <file>img/base.png</file>
+    </qresource>
+</RCC>
